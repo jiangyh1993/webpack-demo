@@ -1,4 +1,12 @@
+@font-face {
+	font-family: 'Kavivanar', cursive;
+	src: url('./Kavivanar-Regular.ttf') format('ttf');
+	font-weight: 600;
+	font-style: normal;
+}
+
 .hello {
 	color: red;
+	font-family: 'Kavivanar', cursive;
 	background: url('./icon.jpg');
 }
